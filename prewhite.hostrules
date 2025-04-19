@@ -1,4 +1,12 @@
-# internal network
+# 常用域名前置
+.cn
+.qq.com
+.tencent.com
+.baidu.com
+.bilibili.com
+.douyin.com
+
+# 内网域名
 10.*.*.*
 172.16.*.*
 172.17.*.*
@@ -18,3 +26,4 @@
 172.31.*.*
 169.254.*.*
 192.168.*.*
+# end
