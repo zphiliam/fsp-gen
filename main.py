@@ -16,7 +16,7 @@ PREBLACK_FILE = "preblack.hostrules"
 # 分隔注释
 SEPARATOR_COMMENT = "# -------autogen------"
 # 黑名单注释前缀
-BLACKLIST_COMMENT_PREFIX = "# "
+BLACKLIST_COMMENT_PREFIX = "# blocked "
 
 def is_subdomain(domain, parent_domain):
     """
